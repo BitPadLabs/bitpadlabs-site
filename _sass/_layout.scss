@@ -416,9 +416,10 @@
   
   .footer-content {
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
-    gap: $spacing-lg;
+    grid-template-columns: auto 1fr auto;
+    gap: $spacing-md;
     margin-bottom: $spacing-lg;
+    align-items: start;
     
     @media (max-width: $breakpoint-md) {
       grid-template-columns: 1fr;
@@ -427,6 +428,8 @@
   }
   
   .footer-logo {
+    text-align: center;
+    
     img {
       height: 60px;
       margin-bottom: $spacing-sm;
@@ -440,11 +443,12 @@
   
   .footer-links {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: $spacing-md;
+    grid-template-columns: repeat(2, auto);
+    gap: $spacing-lg;
+    justify-content: center;
     
     @media (max-width: $breakpoint-sm) {
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: 1fr;
     }
   }
   
@@ -473,22 +477,22 @@
     }
   }
   
-  .footer-team {
+  .footer-naics {
+    min-width: 280px;
+    
     h4 {
       color: $light-green;
       margin-bottom: $spacing-sm;
       font-size: 1.25rem;
     }
     
-    .team-member {
+    .naics-item {
       margin-bottom: $spacing-xs;
+      font-size: 0.95rem;
       
-      a {
-        color: white;
-        
-        &:hover {
-          color: $light-green;
-        }
+      .naics-desc {
+        color: rgba(white, 0.85);
+        font-size: 0.85rem;
       }
     }
   }

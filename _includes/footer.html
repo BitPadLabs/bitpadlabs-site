@@ -1,7 +1,7 @@
 <footer class="site-footer">
   <div class="container">
     <div class="footer-content">
-      <div class="footer-logo" style="text-align: center;">
+      <div class="footer-logo">
         <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="BitPadLabs Logo" style="height: 80px;">
         <p class="tagline">Small bytes. Big leaps.</p>
         <img src="{{ "/assets/images/decals-and-icons/WOSB Certified.png" | relative_url }}" alt="WOSB Certified" style="height: 60px; margin-top: 0.5rem;">
@@ -26,24 +26,24 @@
             <li><a href="{{ site.baseurl }}/terms">Terms</a></li>
             <li><a href="{{ site.baseurl }}/privacy">Privacy</a></li>
           </ul>
-            <div class="contracting-details" style="margin-top: 1.5em;">
-              <h4>Contracting</h4>
-              <ul style="list-style: none; padding-left: 0;">
-                <li>DUNS: {{ site.duns }}</li>
-                <li>UEI: {{ site.uei }}</li>
-                <li>CAGE: {{ site.cage }}</li>
-              </ul>
-            </div>
+          <div class="contracting-details" style="margin-top: 1.5em;">
+            <h4>Contracting</h4>
+            <ul style="list-style: none; padding-left: 0; margin-left: 0;">
+              <li style="white-space: nowrap;">DUNS: {{ site.duns }}</li>
+              <li style="white-space: nowrap;">UEI: {{ site.uei }}</li>
+              <li style="white-space: nowrap;">CAGE: {{ site.cage }}</li>
+            </ul>
+          </div>
         </div>
       </div>
       
-      <div class="footer-team">
+      <div class="footer-naics">
         <h4>NAICS Codes</h4>
-        <div class="team-members">
+        <div class="naics-list">
           {% for code in site.data.naics %}
-          <div class="team-member">
-              {{ code.code }} <br
-              <span class="team-member-desc">{{ code.desc }}</span>
+          <div class="naics-item">
+              {{ code.code }}<br>
+              <span class="naics-desc">{{ code.desc }}</span>
           </div>
           {% endfor %}
         </div>
@@ -52,7 +52,7 @@
     
     <div class="footer-bottom">
       <div>
-        <p style="margin-bottom: 0.25rem;">&copy; {{ site.time | date: '%Y' }} BitPadLabs, LLC — A Small Woman-Owned Business. All rights reserved.</p>
+        <p style="margin-bottom: 0.25rem;">&copy; {{ site.time | date: '%Y' }} BitPadLabs, LLC — A Woman-Owned Small Business. All rights reserved.</p>
         <p style="margin-top: 0;">3228 Walden Rd, Macon, GA 31216-7447</p>
       </div>
       <a href="mailto:{{ site.email }}">{{ site.email }}</a>
