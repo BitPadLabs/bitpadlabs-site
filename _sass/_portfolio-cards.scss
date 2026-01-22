@@ -8,7 +8,8 @@
   margin-bottom: 2rem;
 }
 
-.portfolio-item.card {
+.portfolio-item.card,
+.partnership-item.card {
   background: #fff;
   border-radius: 1.25rem;
   box-shadow: 0 6px 36px rgba(44,62,80,0.07), 0 1.5px 6px rgba(44,62,80,0.03);
@@ -108,7 +109,8 @@
     grid-template-columns: 1fr;
     gap: 1.4rem;
   }
-  .portfolio-item.card .card-body {
+  .portfolio-item.card .card-body,
+  .partnership-item.card .card-body {
     padding: 1.2rem 1rem 1.2rem 1rem;
   }
   .portfolio-item.card .product-image {
