@@ -17,10 +17,10 @@ We are thrilled to open our doors as an independent software lab dedicated to bu
 - Community-driven development—your feedback shapes our roadmap.
 
 **What to Expect:**
-Over the coming months, we’ll be rolling out a suite of products and tools, including:
-- GlowStatus: Effortless status dashboards and calendar integration
-- budsyapp: Modern cannabis unit tracking and compliance
-- More projects and open-source contributions
+We're focused on building exceptional partnerships and delivering innovative solutions across:
+- Custom software development and consulting
+- Technology integration and automation
+- Strategic partnerships with industry leaders
 
 We invite you to follow our journey, join our community, and help us shape the future of BitPadLabs. Whether you’re a developer, entrepreneur, or tech enthusiast, there’s a place for you here.
 

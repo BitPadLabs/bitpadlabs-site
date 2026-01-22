@@ -1,10 +1,10 @@
 # 🐸 BitPadLabs Website
 
-Official website for BitPadLabs, LLC - an independent software lab built to help real people solve real problems through clean, scalable technology.
+Official website for BitPadLabs, LLC - a certified Woman-Owned Small Business (WOSB) delivering innovative software development, strategic partnerships, and expert technology consulting for government and commercial clients.
 
 [![Built with Jekyll](https://img.shields.io/badge/Built_with-Jekyll-red.svg)](https://jekyllrb.com/)
 [![Hosted on GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-black.svg)](https://pages.github.com/)
-[![Mississippi LLC](https://img.shields.io/badge/Mississippi-LLC-green.svg)](https://bitpadlabs.com)
+[![WOSB Certified](https://img.shields.io/badge/WOSB-Certified-green.svg)](https://bitpadlabs.com/about)
 
 ## 🌐 Live Website
 
@@ -54,7 +54,7 @@ BitPadLabs-Site/
 ├── _config.yml         # Jekyll configuration
 ├── _data/              # Site data (YAML)
 │   ├── team.yml        # Team member info
-│   └── products.yml    # Product info
+│   └── naics.yml       # NAICS codes for federal contracting
 ├── _includes/          # Reusable HTML components (header, footer, etc.)
 ├── _layouts/           # Page templates (default, post, etc.)
 ├── _posts/             # Blog posts (Markdown, YYYY-MM-DD-title.md)
@@ -62,7 +62,9 @@ BitPadLabs-Site/
 ├── assets/
 │   ├── css/            # Compiled CSS (from SCSS)
 │   ├── images/         # Images, graphics, and logos
-│   │   ├── leaf-bg.svg
+│   │   ├── decals-and-icons/  # SBA certification badges
+│   │   ├── SBA-Logo-PNG/      # SBA logo files
+│   │   ├── partnerships/      # Partner logos (Miro, Red Hat)
 │   │   └── team/       # Team member photos
 │   └── js/             # JavaScript files
 ├── .github/
@@ -71,11 +73,14 @@ BitPadLabs-Site/
 ├── README.md           # Project documentation
 ├── LICENSE             # License info
 ├── index.html          # Home page
-├── about.html          # About page
-├── blog.html           # Blog listing
+├── aapabilities.html   # Service capabilities
 ├── contact.html        # Contact page
 ├── faq.html            # FAQ page
-├── portfolio.html      # Portfolio/projects
+├── partnerships.html   # Strategic partnerships
+├── privacy.html        # Privacy policy
+├── team.html           # Team page
+├── tech-stack.html     # Technology stack
+└── terms.html          # Terms of serviceio/projects
 ├── privacy.html        # Privacy policy
 ├── roadmap.html        # Roadmap
 ├── sitemap.xml         # Sitemap

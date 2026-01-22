@@ -10,3 +10,9 @@ vendor/
 .DS_Store
 
 gemfile.lock
+
+# Sister company site - managed separately
+bitpadlabsgs-site/
+
+# Private documents
+Operating Agreement - BPL-GS.md

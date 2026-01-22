@@ -358,11 +358,13 @@ ul, ol {
   border-radius: $border-radius-md;
   box-shadow: $shadow-md;
   overflow: hidden;
-  transition: transform $transition-base, box-shadow $transition-base;
+  transition: transform $transition-base, box-shadow $transition-base, border-left $transition-base;
+  border-left: 4px solid transparent;
   
   &:hover {
     transform: translateY(-5px);
     box-shadow: $shadow-lg;
+    border-left-color: $frog-green;
   }
 }
 

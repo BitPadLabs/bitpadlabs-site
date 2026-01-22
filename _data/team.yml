@@ -3,7 +3,7 @@
   github: hrcassels
   image: hannah.jpg
   bio: >-
-    Hannah leads the vision for BitPadLabs products and specializes in full-stack 
+    Hannah leads the vision for BitPadLabs and specializes in full-stack 
     development, product ownership, and supporting small business operations. She is 
     a founding member and co-owner of BitPadLabs, LLC.
 
@@ -23,14 +23,6 @@
     She focuses on market expansion, federal and state contracts, and scaling operations
     to accelerate company growth. She is a founding member and co-owner of BitPadLabs, LLC.
 
-- name: Ryan Burke
-  role: Chief Growth Officer (CGO)
-  image: ryan.jpeg
-  bio: >-
-    Ryan leads growth initiatives and customer acquisition strategies for BitPadLabs.
-    He focuses on expanding market presence, building strategic partnerships, and 
-    driving revenue growth through innovative business development. He is a founding non-member of BitPadLabs, LLC.
-
 - name: Christopher Inman
   role: Chief Technology Officer (CTO)
   github: Severswoed
@@ -39,3 +31,11 @@
     Chris serves as the engineering mentor and technical lead. He focuses on infrastructure, 
     product strategy, DevSecOps, and capability transfer to ensure long-term success.
     He is a founding non-member of BitPadLabs, LLC.
+
+- name: Ryan Burke
+  role: Chief Growth Officer (CGO)
+  image: ryan.jpeg
+  bio: >-
+    Ryan leads growth initiatives and customer acquisition strategies for BitPadLabs.
+    He focuses on expanding market presence, building strategic partnerships, and 
+    driving revenue growth through innovative business development. He is a founding non-member of BitPadLabs, LLC.
