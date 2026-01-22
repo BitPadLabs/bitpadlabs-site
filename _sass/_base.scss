@@ -298,10 +298,10 @@ ul, ol {
   &-secondary {
     background-color: transparent;
     border: 2px solid $frog-green;
-    color: white;
+    color: $frog-green;
     
     &:hover {
-      background-color: $leafy-green;
+      background-color: $frog-green;
       border: 2px solid $frog-green;
       color: white;
       text-decoration: none;
