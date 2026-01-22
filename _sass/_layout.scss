@@ -448,8 +448,8 @@
   .footer-links {
     display: grid;
     grid-template-columns: repeat(2, auto);
-    gap: $spacing-lg;
-    justify-content: center;
+    gap: $spacing-md;
+    justify-content: start;
     
     @media (max-width: $breakpoint-sm) {
       grid-template-columns: 1fr;
