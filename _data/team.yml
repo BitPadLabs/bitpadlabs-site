@@ -1,6 +1,7 @@
 - name: Hannah Cassels
   role: Chief Executive Officer (CEO)
   github: hrcassels
+  linkedin: https://www.linkedin.com/in/hannah-cassels-105500270/
   image: Hannah-BPL.jpeg
   bio: >-
     Hannah leads the vision for BitPadLabs and specializes in full-stack 
@@ -9,6 +10,7 @@
 
 - name: Jaime Inman
   role: Chief Operations & Finance Officer (COFO)
+  linkedin: https://www.linkedin.com/in/jaime-inman-04596a391/
   image: Jaime-BPL.jpeg
   bio: >-
     Jaime oversees financial operations, budgeting, and fiscal strategy for BitPadLabs.
@@ -17,6 +19,7 @@
 
 - name: Melanie Amerson
   role: Chief Strategy Officer (CSO)
+  linkedin: https://www.linkedin.com/in/melanie-amerson-mba-23a89111/
   image: Melanie-BPL.JPG
   bio: >-
     With over 15 years of government contracting experience, Melanie drives strategic planning and business development for BitPadLabs.
@@ -25,6 +28,7 @@
 
 - name: Ryan Burke
   role: Chief Growth Officer (CGO)
+  linkedin: https://www.linkedin.com/in/ryan-burke-pmp-rmp-3548b918/
   image: Ryan-BPL.jpeg
   bio: >-
     With over 15 years of government contracting experience, Ryan leads growth initiatives and customer acquisition strategies for BitPadLabs.
@@ -34,6 +38,7 @@
 - name: Christopher Inman
   role: Chief Technology Officer (CTO)
   github: Severswoed
+  linkedin: https://www.linkedin.com/in/cminman/
   image: Chris-BPL.JPG
   bio: >-
     With over 15 years of federal government CIO / IT experience, Chris serves as the engineering mentor and technical lead. He focuses on infrastructure, 
