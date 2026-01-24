@@ -14,6 +14,10 @@ title: Meet Our Team
           <div class="team-image">
             {% if member.name == "Jaime Inman" %}
             <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" style="object-position: center 30%;">
+            {% elsif member.name == "Ryan Burke" %}
+            <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" style="object-position: center 20%;">
+            {% elsif member.name == "Christopher Inman" %}
+            <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" style="object-position: center 20%;">
             {% else %}
             <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}">
             {% endif %}
