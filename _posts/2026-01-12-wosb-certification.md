@@ -70,3 +70,6 @@ If you're looking for a certified woman-owned technology partner with deep exper
 
 **Learn more:** [bitpadlabs.com/capabilities](https://bitpadlabs.com/capabilities)
 
+---
+
+*BitPadLabs, LLC is a certified Woman-Owned Small Business (WOSB) delivering innovative software development, strategic partnerships, and expert technology consulting for government and commercial clients.*

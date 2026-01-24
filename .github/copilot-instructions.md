@@ -26,8 +26,8 @@ BitPadLabs is woman-owned and led by three founding members:
 - Ryan Burke - CGO (Founding non-member)
 
 ### Strategic Partnerships
-- **Miro** - Visual collaboration platform partner
-- **Red Hat** - Enterprise open source solutions partner
+- **Miro** - Visual collaboration platform partner (full-service offering: resell, hosting, administration, TBM alignment, license management, integrations, training, and consulting)
+- **Red Hat** - Enterprise open source solutions partner (primarily reselling Red Hat products)
 - Additional partnerships with GitHub, AWS, Azure, and other technology providers
 
 ## Site Structure
@@ -228,9 +228,13 @@ Edit `_includes/header.html` to modify main navigation menu. Current order:
 Edit `partnerships.html` to add new strategic partnerships. Include:
 - Partner logo (if approved) in `/assets/images/partnerships/`
 - Partnership overview
-- Services delivered
+- Services delivered (consider partnership business model: resell-only vs full-service)
 - Use cases
 - Technology areas
+
+**Partnership Business Models:**
+- **Miro Partnership:** Full-service offering including reselling, hosting, administration, TBM alignment, license management, integrations, training, and strategic consulting
+- **Red Hat Partnership:** Primarily reselling Red Hat products (resale-focused rather than managed services)
 
 #### Miro Partnership Logos
 
