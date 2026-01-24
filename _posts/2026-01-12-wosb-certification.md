@@ -9,8 +9,6 @@ image: /assets/images/decals-and-icons/WOSB Certified.png
 excerpt: "We're proud to announce that BitPadLabs, LLC has officially achieved Woman-Owned Small Business (WOSB) certification, opening new doors for federal contracting opportunities and partnerships."
 ---
 
-![WOSB Certification Badge](/assets/images/decals-and-icons/WOSB Certified.png){: style="max-width: 300px; margin: 2rem auto; display: block;"}
-
 We are thrilled to announce that **BitPadLabs, LLC** has officially achieved **Woman-Owned Small Business (WOSB)** certification as of January 12, 2026!
 
 This milestone represents a significant step forward in our company's journey and reinforces our commitment to diversity, innovation, and excellence in the technology sector.
@@ -74,3 +72,4 @@ If you're looking for a certified woman-owned technology partner with deep exper
 
 
 ![Small bytes. Big leaps.](/assets/images/logo.png){: style="max-width: 200px; margin: 2rem auto; display: block;"}
+
