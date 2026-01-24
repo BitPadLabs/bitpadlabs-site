@@ -136,6 +136,7 @@
 .post-image {
   height: 200px;
   overflow: hidden;
+  padding-top: 24px;
 }
 
 .post-image img {
@@ -147,7 +148,6 @@
   margin: 0 auto;
   display: block;
   transition: transform 0.3s ease;
-  padding-top: 24px;
 }
 
 .blog-post:hover .post-image img {
