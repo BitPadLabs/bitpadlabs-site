@@ -116,5 +116,3 @@ If you're interested in learning how Miro can transform your team's collaboratio
 ---
 
 *BitPadLabs, LLC is a certified Woman-Owned Small Business (WOSB) delivering innovative software development, strategic partnerships, and expert technology consulting for government and commercial clients.*
-
-![Small bytes. Big leaps.](/assets/images/logo.png){: style="max-width: 200px; margin: 2rem auto; display: block;"}

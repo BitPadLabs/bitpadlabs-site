@@ -64,7 +64,7 @@ We're also proud to work alongside our sister company, **BitPadLabs Government S
 
 ## Ready to Partner?
 
-If you're looking for a certified woman-owned technology partner with deep expertise in modern software development, AI, and cloud technologies, we'd love to connect.
+If you're looking for a certified woman-owned technology partner with deep expertise in modern software development, AI, enterprise leadership, and platform management, we'd love to connect.
 
 **Contact us:** [info@bitpadlabs.com](mailto:info@bitpadlabs.com)
 

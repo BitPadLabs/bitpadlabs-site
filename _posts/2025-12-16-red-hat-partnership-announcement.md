@@ -5,7 +5,7 @@ date: 2025-12-16 09:00:00
 author: BitPadLabs Team
 categories: [announcement, partnerships]
 tags: [red-hat, partnerships, open-source, enterprise, cloud]
-image: /assets/images/logo.png
+image: /assets/images/red-hat/red-hat-name.png
 excerpt: "We're proud to announce our partnership with Red Hat, bringing enterprise-grade open source technologies and cloud-native solutions to our clients."
 ---
 
@@ -139,7 +139,3 @@ If you're exploring Red Hat technologies or looking to optimize your existing Re
 ---
 
 *BitPadLabs, LLC is a certified Woman-Owned Small Business (WOSB) delivering innovative software development, strategic partnerships, and expert technology consulting for government and commercial clients.*
-
-**Note:** While we have deep technical expertise with Red Hat technologies and are actively working to establish formal partnership status, logo usage is pending final approval. We maintain strong relationships with Red Hat and Carahsoft (Red Hat's public sector distributor) to serve our government and commercial clients.
-
-![Small bytes. Big leaps.](/assets/images/logo.png){: style="max-width: 200px; margin: 2rem auto; display: block;"}

@@ -298,6 +298,95 @@ Miro brand assets are available in `/assets/images/partnerships/`:
 - Photography: https://brandkit.miro.com/corporate-visual-identity/photography
 - Logo usage governed by Miro Solutions Partner Program Agreement (Section 3.1-3.2)
 
+#### Red Hat Partnership Brand Guidelines
+
+**Partnership Status:** Approved strategic partnership with Red Hat for enterprise open source solutions.
+
+**Available Brand Assets** (in `/assets/images/red-hat/`):
+- `red-hat-name.png` - **Primary logo** - Full logo with wordmark (500x500px) - Use for partnerships page, blog posts, website display
+- `red-hat.png` - Red Hat fedora icon only (400x400px) - Use only in tight spaces (app icons, social media avatars)
+- `RedHat_Co-brand_template_Partner-led/` - Adobe Illustrator (.ait) and EPS (.eps) templates for creating co-branded lockups
+- `Co-branding-marketing-cheatsheet-(partners).pdf` - Comprehensive partner marketing guidelines
+- `PCH Red Hat Partner Event kit _ Guidelines.pdf` - Event and presentation guidelines
+
+**Key Principles:**
+- **Partner-Led Marketing:** BitPadLabs materials should follow BitPadLabs brand guidelines, not Red Hat's
+- **Transparency:** Always be clear that materials are from BitPadLabs as a Red Hat partner, not from Red Hat itself
+- **Product Naming:** Always use full Red Hat product names (e.g., "Red Hat OpenShift," never "ROSA" or "RHEL")
+- **Logo Usage:** Use Red Hat corporate logo (not product logos) in co-branding; Red Hat logo comes second in lockups
+- **Logo Priority:** Full logo lockup (icon + wordmark in `red-hat-name.png`) should be prioritized whenever possible
+
+**Co-Branding Rules:**
+- BitPadLabs logo comes first, Red Hat logo second
+- Use Red Hat logo in full color with adequate clear space
+- Never use Red Hat logo in grayscale
+- Follow BitPadLabs templates and brand guidelines
+- For single-color applications (swag, etc.), use solid black, red, or white
+- Do not mix BitPadLabs and Red Hat brand elements (colors, fonts, design language)
+- Never create characters wearing red fedoras or AI-generated Red Hat logos
+
+**Writing Guidelines:**
+- Refer to "Red Hat products" not just "products" when discussing Red Hat technologies
+- Combining Red Hat products with BitPadLabs services creates "solutions"
+- Use "Red Hat®" with trademark symbol on first use only
+- Full product names required: "Red Hat Enterprise Linux" (first use), then "Enterprise Linux" (subsequent)
+- Never abbreviate: Not "RHEL," "ROSA," "OCP," etc.
+- Do not reference IBM when discussing Red Hat partnerships
+
+**Approved Copy Blocks for Partner Communications:**
+
+*For general partnership references:*
+"BitPadLabs, a certified Woman-Owned Small Business providing innovative software development and technology consulting, is a proud partner of Red Hat, the world's leading provider of enterprise open source software solutions. We empower customers with Red Hat products and solutions through professional services, implementation expertise, and strategic consulting."
+
+*For service-based partnerships:*
+"BitPadLabs provides professional, operational, and managed services based on Red Hat technologies including Red Hat OpenShift, Red Hat Enterprise Linux, and Red Hat Ansible Automation Platform. Our expertise includes implementation, migration, optimization, and ongoing support for Red Hat platforms."
+
+**Product Reference Rules:**
+- Always use Red Hat corporate logo, not product logos (unless specifically approved)
+- Use full product names: "Red Hat OpenShift" not "OpenShift"
+- Certified technical partners may use product-specific certification buttons (if provided)
+- Never co-brand with Red Hat product logos
+- Do not use Red Hat product icons without explicit approval
+
+**Partner-Led Co-Branding Guidelines:**
+
+*Creating Co-Brand Logos:*
+- Partner logo (BitPadLabs) should always come first
+- Use equal visual weight for both logos
+- Ensure Red Hat logo has adequate clear space (minimum same as our logo)
+- Common divider styles: diagonal line, plus sign, vertical bar, dotted line, X, double diagonal
+- If no template exists, align both logos equally around divider element
+- Both logos should be same visual weight and properly spaced
+
+*Co-Brand Logo Requirements:*
+- Always use current Red Hat corporate logo (not legacy versions)
+- Never use Red Hat logo in grayscale - always full color
+- Never use hat icon alone or in co-brand lockups
+- Never add text or graphics to Red Hat logo
+- Do not create co-brands with Red Hat product, division, or event logos
+- Do not generate co-branded logos with AI tools
+- Ensure sufficient clear space around both logos (never crowd logos)
+
+*Marketplace Listing Guidelines:*
+- Use full Red Hat product name (no acronyms)
+- List partner (BitPadLabs) as source/provider for partner-led offerings
+- Use partner logo or icon in listing thumbnail (not Red Hat logo)
+- Technology icons may be used for clarity if approved
+- Never use co-brand logo in marketplace listing thumbnails
+- Never use Red Hat product logos or fedora icon in thumbnails
+
+**Visual Guidelines:**
+- Partner-led materials should look like BitPadLabs materials (our fonts, colors, design language)
+- Red Hat appears in co-brand lockup and can be referenced in headlines/copy
+- Do not use "Red Hat red" (#EE0000) unless it appears only in the Red Hat logo itself
+- Do not attempt to mimic or reproduce Red Hat brand styling
+- Never use BitPadLabs branding with Red Hat logo alone (must show partnership context)
+
+**Reference:**
+- Red Hat Partner Handbook: https://www.redhat.com/en/about/brand/standards/partner
+- Partnership managed through Red Hat Partner Connect
+- Contact Red Hat partner team for specific approval questions
+
 ## SEO & Meta Tags
 
 ### Site-wide
