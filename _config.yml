@@ -9,6 +9,12 @@ baseurl: ""
 url: "https://bitpadlabs.com"
 github_username: BitPadLabs
 
+# Company address
+address: "301 Barrington Hall Dr"
+city: "Macon"
+state: "GA"
+zip: "31220-0702"
+
 # Company identifiers 
 duns: "144845731"
 uei: "WXU7TJ5MQJW4"
