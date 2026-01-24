@@ -361,9 +361,11 @@
       
       .social-links {
         margin-top: $spacing-sm;
+        display: flex;
+        gap: $spacing-xs;
+        align-items: center;
         
         a {
-          margin-right: $spacing-xs;
           display: inline-block;
         }
       }
