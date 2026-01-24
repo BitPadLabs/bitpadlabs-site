@@ -13,7 +13,7 @@ title: Meet Our Team
         <div class="team-card card">
           <div class="team-image">
             {% if member.name == "Jaime Inman" %}
-            <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" style="object-position: center 40%;">
+            <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" style="object-position: center 30%;">
             {% else %}
             <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}">
             {% endif %}
@@ -25,7 +25,7 @@ title: Meet Our Team
             <div class="social-links">
               {% if member.linkedin %}
               <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                <img src="{{ site.baseurl }}/assets/images/in-logo/LI-In-Bug.png" alt="LinkedIn" style="width: 24px; height: 24px;">
+                <img src="{{ site.baseurl }}/assets/images/in-logo/LI-In-Bug.png" alt="LinkedIn" style="width: 24px; height: 24px; border-radius: 0;">
               </a>
               {% endif %}
               {% if member.github %}
