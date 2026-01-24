@@ -12,9 +12,9 @@ Today marks the official launch of BitPadLabs, LLC!
 We are thrilled to open our doors as an independent software lab dedicated to building clean, scalable technology that solves real-world problems. Our mission is to empower people and businesses through thoughtful design, robust engineering, and a relentless focus on user experience.
 
 **What We Stand For:**
-- Innovation with purpose—every product we build is designed to make a difference.
-- Transparency and trust—open communication with our users and partners.
-- Community-driven development—your feedback shapes our roadmap.
+- Innovation with purpose. Every product we build is designed to make a difference.
+- Transparency and trust. Open communication with our users and partners.
+- Community-driven development. Your feedback shapes our roadmap.
 
 **What to Expect:**
 We're focused on building exceptional partnerships and delivering innovative solutions across:
@@ -26,4 +26,4 @@ We invite you to follow our journey, join our community, and help us shape the f
 
 Stay tuned for updates, product releases, and behind-the-scenes insights from our team. Thank you for being part of our story from day one!
 
-— The BitPadLabs Team
+- The BitPadLabs Team
