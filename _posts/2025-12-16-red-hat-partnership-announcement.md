@@ -9,7 +9,7 @@ image: /assets/images/red-hat/red-hat-name.png
 excerpt: "We're proud to announce our partnership with Red Hat, bringing enterprise-grade open source technologies and cloud-native solutions to our clients."
 ---
 
-We're excited to announce that **BitPadLabs** has established a strategic partnership with **Red Hat**, the world's leading provider of enterprise open source solutions!
+We're excited to announce that **BitPadLabs** has established a strategic partnership with **Red Hat**, the world's leading provider of enterprise open source solutions, through the **Carahsoft partner channel**!
 
 This partnership enables us to provide Red Hat products and subscriptions to our government and commercial clients, making enterprise-grade open source technologies more accessible to organizations across the public and private sectors. As a certified Woman-Owned Small Business (WOSB), we're proud to offer Red Hat's proven enterprise platforms through streamlined procurement and flexible licensing options.
 
