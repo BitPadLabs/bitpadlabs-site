@@ -9,7 +9,7 @@ image: /assets/images/decals-and-icons/WOSB Certified.png
 excerpt: "We're proud to announce that BitPadLabs, LLC has officially achieved Woman-Owned Small Business (WOSB) certification, opening new doors for federal contracting opportunities and partnerships."
 ---
 
-<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;">
+<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;" markdown="1">
 
 We are thrilled to announce that **BitPadLabs, LLC** has officially achieved **Woman-Owned Small Business (WOSB)** certification as of January 12, 2026!
 
@@ -17,7 +17,7 @@ This milestone represents a significant step forward in our company's journey an
 
 </div>
 
-<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;">
+<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;" markdown="1">
 
 ## What This Means
 
@@ -32,7 +32,7 @@ For BitPadLabs, this certification:
 
 </div>
 
-<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;">
+<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;" markdown="1">
 
 ## Our Woman-Led Foundation
 
@@ -46,7 +46,7 @@ Together, our founding team brings decades of combined experience in software de
 
 </div>
 
-<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;">
+<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;" markdown="1">
 
 ## Partnering for Impact
 
@@ -61,7 +61,7 @@ As a certified WOSB, BitPadLabs is uniquely positioned to:
 
 </div>
 
-<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;">
+<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;" markdown="1">
 
 ## Our Capabilities
 
@@ -76,7 +76,7 @@ BitPadLabs brings a comprehensive suite of technology capabilities to our govern
 
 </div>
 
-<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;">
+<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;" markdown="1">
 
 ## Looking Ahead
 
@@ -86,7 +86,7 @@ We're also proud to work alongside our sister company, **BitPadLabs Government S
 
 </div>
 
-<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;">
+<div class="card" style="padding: 40px 32px; margin-bottom: 2rem;" markdown="1">
 
 ## Ready to Partner?
 
