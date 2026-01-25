@@ -8,19 +8,6 @@ title: Strategic Partnerships
     <h1 class="section-title">Strategic Partnerships</h1>
     <p class="section-subtitle">Collaborating with industry leaders to deliver exceptional technology solutions</p>
     
-    <!-- Partner Navigation -->
-    <div style="max-width: 900px; margin: 2rem auto 3rem; text-align: center;">
-      <label for="partner-select" style="font-weight: 600; margin-right: 1rem; font-size: 1.1rem;">Jump to Partner:</label>
-      <select id="partner-select" onchange="document.getElementById(this.value).scrollIntoView({behavior: 'smooth', block: 'start'})" style="padding: 0.5rem 1rem; font-size: 1rem; border: 2px solid #4CAF50; border-radius: 4px; background: white; cursor: pointer;">
-        <option value="">Select a partner...</option>
-        <option value="partner-miro">Miro</option>
-        <option value="partner-github">GitHub</option>
-        <option value="partner-datadog">Datadog</option>
-        <option value="partner-redhat">Red Hat</option>
-        <option value="partner-scaledagile">Scaled Agile</option>
-      </select>
-    </div>
-    
     <div style="max-width: 1200px; margin: 0 auto;">
       
       <div class="content-block" style="background: #f8f9fa; padding: 2rem; border-left: 4px solid #4CAF50; margin-bottom: 2rem;">
@@ -30,8 +17,34 @@ title: Strategic Partnerships
         </p>
       </div>
 
-      <!-- Partners Grid -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 2rem; margin-bottom: 3rem;">
+      <!-- Partnership Tabs -->
+      <div style="margin-bottom: 3rem;">
+        <div class="partnership-tabs" style="display: flex; border-bottom: 3px solid #e0e0e0; margin-bottom: 2rem;">
+          <button class="tab-button active" onclick="switchTab('vendor')" style="flex: 1; padding: 1rem 2rem; font-size: 1.1rem; font-weight: 600; background: none; border: none; border-bottom: 3px solid #4CAF50; margin-bottom: -3px; cursor: pointer; color: #4CAF50; transition: all 0.3s ease;">
+            Vendor Partnerships
+          </button>
+          <button class="tab-button" onclick="switchTab('business')" style="flex: 1; padding: 1rem 2rem; font-size: 1.1rem; font-weight: 600; background: none; border: none; border-bottom: 3px solid transparent; margin-bottom: -3px; cursor: pointer; color: #666; transition: all 0.3s ease;">
+            Business Partnerships
+          </button>
+        </div>
+
+        <!-- Vendor Partnerships Tab -->
+        <div id="vendor-tab" class="tab-content" style="display: block;">
+          <!-- Partner Navigation -->
+          <div style="text-align: center; margin-bottom: 2rem;">
+            <label for="partner-select" style="font-weight: 600; margin-right: 1rem; font-size: 1.1rem;">Jump to Partner:</label>
+            <select id="partner-select" onchange="document.getElementById(this.value).scrollIntoView({behavior: 'smooth', block: 'start'})" style="padding: 0.5rem 1rem; font-size: 1rem; border: 2px solid #4CAF50; border-radius: 4px; background: white; cursor: pointer;">
+              <option value="">Select a partner...</option>
+              <option value="partner-miro">Miro</option>
+              <option value="partner-github">GitHub</option>
+              <option value="partner-datadog">Datadog</option>
+              <option value="partner-redhat">Red Hat</option>
+              <option value="partner-scaledagile">Scaled Agile</option>
+            </select>
+          </div>
+
+          <!-- Partners Grid -->
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 2rem;">
       
       <!-- Miro Partnership -->
       <div id="partner-miro" class="content-block card" style="padding: 2rem; display: flex; flex-direction: column;">
@@ -231,9 +244,49 @@ title: Strategic Partnerships
       </div>
       <!-- End Partners Grid -->
 
+        </div>
+        <!-- End Vendor Tab -->
+
+        <!-- Business Partnerships Tab -->
+        <div id="business-tab" class="tab-content" style="display: none;">
+          <div class="content-block card" style="padding: 3rem; text-align: center; cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)';">
+            <img src="{{ site.baseurl }}/assets/images/partners_pending.png" 
+                 alt="Business Partnerships Coming Soon" 
+                 style="max-width: 400px; width: 100%; height: auto; margin: 0 auto;">
+          </div>
+        </div>
+        <!-- End Business Tab -->
+
+      </div>
+      <!-- End Partnership Tabs -->
+
     </div>
   </div>
 </section>
+
+<script>
+function switchTab(tabName) {
+  // Hide all tabs
+  document.querySelectorAll('.tab-content').forEach(tab => {
+    tab.style.display = 'none';
+  });
+  
+  // Remove active class from all buttons
+  document.querySelectorAll('.tab-button').forEach(button => {
+    button.style.borderBottomColor = 'transparent';
+    button.style.color = '#666';
+    button.classList.remove('active');
+  });
+  
+  // Show selected tab
+  document.getElementById(tabName + '-tab').style.display = 'block';
+  
+  // Add active class to clicked button
+  event.target.style.borderBottomColor = '#4CAF50';
+  event.target.style.color = '#4CAF50';
+  event.target.classList.add('active');
+}
+</script>
 
 <section class="section" style="background-color: #f8f9fa;">
   <div class="container text-center">
