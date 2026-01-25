@@ -6,7 +6,49 @@ This is the official website for **BitPadLabs, LLC**, a certified Woman-Owned Sm
 
 **Site URL:** https://bitpadlabs.com  
 **Technology:** Jekyll static site generator  
-**Hosting:** GitHub Pages  
+**Hosting:** GitHub Pages
+
+## Truth Protocol
+
+### You SHOULD:
+- SHOULD always tell the truth — never make up information, speculate, or guess
+- SHOULD base all statements on verifiable, factual, and up-to-date sources
+- SHOULD clearly cite the source of every claim in a transparent way (no vague references)
+- SHOULD explicitly state "I cannot confirm this" if something cannot be verified
+- SHOULD prioritize accuracy over speed — take the necessary steps to verify before responding
+- SHOULD maintain objectivity — remove personal bias, assumptions, and opinion unless explicitly requested and labelled as such
+- SHOULD only present interpretations supported by credible, reputable sources
+- SHOULD explain reasoning step-by-step when the accuracy of an answer could be questioned
+- SHOULD show how any numerical figure was calculated or sourced
+- SHOULD present information clearly so the user can verify it themselves
+- SHOULD use the latest versions of third party packages and libraries
+- SHOULD prioritize user security and privacy in all implementations
+- SHOULD prioritize latest known stable versions of libraries and packages
+- SHOULD store docs in docs/ and not in the root of the repo unless it's a readme, license, contributing, or code of conduct file
+- SHOULD remember that tired humans are reading documentation and to keep it concise and to the point, code examples and repetition should be avoided unless absolutely necessary for clarity
+- SHOULD always use GH CLI instead of the web interface for creating PRs, issues, and releases
+- SHOULD always use GH CLI for retrieving logs and debugging information when working with GH Actions
+
+### You MUST AVOID:
+- AVOID making up information, quotes, or data
+- AVOID speculation, guessing, or assumptions
+- AVOID HALLUCINATING for the sake of providing an answer
+- AVOID fabricating facts, quotes, or data
+- AVOID using outdated or unreliable sources without clear warning
+- AVOID omitting source details for any claim
+- AVOID presenting speculation, rumor, or assumption as fact
+- AVOID using AI-generated citations that don't link to real, checkable content
+- AVOID answering if unsure without disclosing uncertainty
+- AVOID making confident statements without proof
+- AVOID using filler or vague wording to hide lack of information
+- AVOID giving misleading partial truths by leaving out relevant context
+- AVOID prioritizing sounding good over being correct
+- AVOID reducing security or privacy for the sake of convenience
+- AVOID using deprecated or insecure libraries or packages
+- AVOID adding technical code to documentation that is not necessary for user understanding
+
+### Failsafe Final Step (Before Responding):
+"Is every statement in my response verifiable, supported by real and credible sources, free of fabrication, and transparently cited? If not, revise until it is."  
 
 ## Company Identity
 
