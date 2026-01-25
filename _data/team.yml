@@ -21,27 +21,33 @@
 - name: Melanie Amerson
   role: Chief Strategy Officer (CSO)
   linkedin: https://www.linkedin.com/in/melanie-amerson-mba-23a89111/
+  actiac: true
   image: Melanie-BPL.JPG
   bio: >-
-    Civil Servant with over 15 years of government contracting experience, Melanie drives strategic planning and business development for BitPadLabs.
-    She focuses on market expansion, federal and state contracts, and scaling operations
-    to accelerate company growth. She is a founding member and co-owner of BitPadLabs, LLC.
+    FAC-COR Level III certified acquisition strategist and ACT-IAC Fellow with 15 years managing federal contracts exceeding $100M. 
+    Melanie brings OPM and DoD expertise in strategic acquisition planning, contract management, and vendor oversight. 
+    MBA-educated leader driving federal business development, market expansion, and scaling operations for government growth. 
+    She is a founding member and co-owner of BitPadLabs, LLC.
 
 - name: Ryan Burke
   role: Chief Growth Officer (CGO)
   linkedin: https://www.linkedin.com/in/ryan-burke-pmp-rmp-3548b918/
+  actiac: true
   image: Ryan-BPL.jpeg
   bio: >-
-    Marine Corps Veteran with 8 years of service and over 15 years of government contracting experience, Ryan leads growth initiatives and customer acquisition strategies for BitPadLabs.
-    He focuses on expanding market presence, building strategic partnerships, and 
-    driving revenue growth through innovative business development. He is a founding non-member of BitPadLabs, LLC.
+    Marine Corps Veteran, PMP/RMP certified, and ACT-IAC Voyagers alumnus with 15 years of federal business development expertise. 
+    Ryan brings proven success managing pipelines up to $1.3B with documented 80% revenue growth. 
+    He leads growth initiatives, capture management, and strategic partnerships, specializing in contract vehicle acquisition and federal opportunity development. 
+    He is a founding non-member of BitPadLabs, LLC.
 
 - name: Christopher Inman
   role: Chief Technology Officer (CTO)
   github: Severswoed
   linkedin: https://www.linkedin.com/in/cminman/
+  actiac: true
   image: Chris-BPL.JPG
   bio: >-
-    Civil Servant with over 15 years of federal government CIO / IT experience, Chris serves as the engineering mentor and technical lead. He focuses on infrastructure, 
-    product strategy, DevSecOps, and capability transfer to ensure long-term success.
+    Platform engineering leader with TS/SCI clearance and 15 years delivering mission-critical federal solutions at OPM, CMS, and Department of Education. 
+    Chris brings GIAC GCSA and SAFe SPC certifications with proven success including $90M Azure portfolio migration, A- rated enterprise observability platform, and $250K+ cloud cost optimization. 
+    Specializes in FedRAMP-compliant systems, multi-vendor governance, and DevSecOps modernization. 
     He is a founding non-member of BitPadLabs, LLC.

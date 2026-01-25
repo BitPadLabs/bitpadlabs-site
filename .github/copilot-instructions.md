@@ -48,7 +48,17 @@ This is the official website for **BitPadLabs, LLC**, a certified Woman-Owned Sm
 - AVOID adding technical code to documentation that is not necessary for user understanding
 
 ### Failsafe Final Step (Before Responding):
-"Is every statement in my response verifiable, supported by real and credible sources, free of fabrication, and transparently cited? If not, revise until it is."  
+"Is every statement in my response verifiable, supported by real and credible sources, free of fabrication, and transparently cited? If not, revise until it is."
+
+## Writing & Style Guidelines
+
+### Punctuation & Formatting
+- **NO EM DASHES** - Do not use em dashes (—) in any content. Use periods, commas, colons, or semicolons instead.
+- **Acceptable alternatives:**
+  - Period for strong breaks: "This is important. It matters."
+  - Comma for appositives: "Our team, led by experts, delivers results."
+  - Colon for explanations: "We focus on three areas: cloud, security, and automation."
+  - Parentheses for asides: "Our founding team (Hannah, Jaime, Melanie) leads with vision."  
 
 ## Company Identity
 
@@ -180,6 +190,9 @@ $breakpoint-xl: 1200px
 3. **Strategic Partnerships** - Feature Miro, Red Hat, and technology ecosystem
 4. **Quality & Expertise** - Showcase team experience, certifications, and proven capabilities
 5. **Privacy & Security** - Privacy-first design, security as foundational principle
+
+### Content Constraints
+- **No Date Ranges** - Do not include date ranges or time periods on the public site (e.g., "Oct-Dec 2025", "in 8 weeks"). Certifications, achievements, and experience should be stated without temporal qualifiers. Internal documents (_ignore/, copilot instructions) may include dates for reference.
 
 ### Tone & Voice
 - **Professional but approachable** - Not corporate, not casual
@@ -631,6 +644,126 @@ This expertise directly supports BitPadLabs' positioning in:
 - GitHub enterprise migrations and governance
 - Multi-vendor coordination and compliance automation
 - SAFe/Agile transformation in federal environments
+
+## Melanie Amerson - Chief Strategy Officer Profile
+
+Melanie Amerson is Chief Strategy Officer and Co-Owner of BitPadLabs, bringing over 15 years of government contracting, acquisition strategy, and procurement expertise to the company's federal business development and compliance initiatives.
+
+### Current Role & Experience
+- **Current:** Chief Strategy Officer (Co-Owner), BitPadLabs LLC (2025-Present)
+- **Current:** Acquisition Strategist, ViaTrie (March 2025-Present, Full-time)
+- **Previous:** U.S. Office of Personnel Management (OPM), 8 years 8 months total (2017-2025)
+  - Acquisition Advisor (GS-14, March 2024-September 2025): HCDMM acquisition program, strategic acquisition planning, contract management, RFI/RFP authoring, SAM.gov/GSA Schedules/NASA SEWP expert, proposal evaluation, vendor management, category management, total lifecycle costing, Executive Steering Committee member
+  - Management Analyst (GS-13, February 2017-March 2024): Managed portfolio of high-value IT Service Support contracts exceeding $100M total value, FAR compliance, standardized acquisition processes, risk assessments, trained junior analysts, invoice approval, budget/financial analysis (Delphi, PRISM, ESC), IGCE/market research/QASPs/solicitations
+  - Acquisition Advisor (120-day detail, July-November 2023): HCDMM office procurement, budgetary, and financial support
+- **Previous:** United States Department of Defense (2010-2017)
+  - Logistics Management Specialist (March 2015-February 2017): Senior logistics specialist $30M JADSI program, contracts/purchase requests/delivery orders/MIPRs technical advisor, authored $43.5M follow-on contract documents (SOW/PWS/market research/QASP/Acquisition Strategy/J&A/RAD/CDRLs), Central Asset Management POC/SME 23 weapons systems $240M budget for POTUS communication umbrella, WebCCaR Air Force financial system SME
+  - Inventory Management Specialist (April 2010-2015): Palace Acquire Program Trainee, avionics inventory/supply chain management, contract buy teams, eliminated MICAP supply issues, J&A documents, 407th Supply Chain Management Squadron
+
+### Federal Acquisition Expertise
+- **FAC-COR III Certified** (Contracting Officer's Representative Level III, Federal Acquisition Institute, January 2020)
+- Deep expertise in Federal Acquisition Regulation (FAR), federal procurement processes, and contract management
+- Developed and led COR programs at OPM HCDMM
+- Streamlined acquisition processes and improved contract tracking systems
+- Procurement and acquisition specialist for large-scale federal IT programs
+
+### Honors & Recognition
+- **Service to the Citizen Team Award 2024** (U.S. Office of Personnel Management): Outstanding achievement in Category 5 (Government Agencies Serving Other Government Agencies)
+- **ACT-IAC Fellow** (May 2023-Present): American Council for Technology-Industry Advisory Council, premier public-private partnership in government technology
+- **ACT-IAC Voyagers 2023** (September 2022-May 2023)
+
+### Education & Certifications
+- **Master of Business Administration (MBA)** - American Public University, Business Administration and Management (April 2011-April 2013)
+- **Bachelor's Degree** - Mercer University Stetson-Hatcher School of Business, Business, Management, Marketing (2005-2009)
+  - Chi Omega Fraternity, Tift College Scholars, Mercer Clinical Skills Program, Dance Marathon Executive Board
+- **FAC-COR Level III Certification** - Federal Acquisition Institute (Issued January 2020)
+
+### Core Competencies
+- **Contract Management:** Federal contracts, procurement strategy, acquisition planning, COR oversight, managed portfolios exceeding $100M
+- **Federal Acquisition:** FAR compliance, federal procurement regulations, acquisition lifecycle management, RFI/RFP authoring
+- **Program Management:** Large-scale federal IT program support, HCDMM acquisition program leadership, Executive Steering Committee
+- **Process Improvement:** Streamlining organizational processes, standardized acquisition processes, evaluation controls
+- **Logistics & Supply Chain:** DoD logistics management, supply chain management, inventory control, avionics systems expertise
+- **Financial Systems Expertise:** Delphi, PRISM, ESC Government financial applications, WebCCaR Air Force financial system, budget/financial analysis
+- **Acquisition Documents:** IGCE, market research, limited source justifications, QASPs, solicitation documents, SOW, PWS, J&A, RAD, CDRLs
+- **Contract Platforms:** SAM.gov, GSA Schedules, NASA SEWP expert for RFI/RFP posting and procurement
+- **Vendor Management:** Proposal evaluation, category management, total lifecycle costing, risk assessments and mitigation
+- **Training & Mentorship:** Trained junior Management Analysts in FAR compliance and contracting systems
+- **DoD Weapons Systems:** Central Asset Management POC/SME for 23 weapons systems, $240M budget supporting POTUS communication
+
+### Volunteer Service
+- **March of Dimes Ambassador Family** (Children focus area)
+
+### Content Context for Site
+When referencing Melanie's expertise in site content:
+- Emphasize **15+ years of federal acquisition and procurement expertise**
+- Highlight **FAC-COR III certification** as advanced credential for federal contracting
+- Reference **OPM HCDMM program** experience (large-scale federal IT acquisition)
+- Note **Service to the Citizen Team Award 2024** as recognition of federal excellence
+- Mention **ACT-IAC Fellow** status for government-industry collaboration credibility
+- Position as **strategic acquisition advisor** for BitPadLabs federal pursuits
+- Reference **FAR expertise** and **federal procurement compliance** for WOSB positioning
+
+This expertise directly supports BitPadLabs' positioning in:
+- Federal contract capture and proposal development
+- WOSB set-aside opportunity identification
+- Federal acquisition strategy and compliance
+- COR services and contract oversight
+- Government technology procurement consulting
+- Federal IT program acquisition support
+
+## Ryan Burke - Chief Growth Officer Profile
+
+Ryan Burke is Chief Growth Officer and Founding non-member of BitPadLabs, bringing over 15 years of business development, capture management, and risk management expertise across government technology consulting.
+
+### Current Role & Experience
+- **Current:** Chief Growth Officer, BitPadLabs LLC (October 2025-Present, Full-time)
+- **Previous:** Manager of Strategic Growth, Excella (July 2024-June 2025, 1 year)
+- **Previous:** BD/Capture Director, RIVA Solutions, Inc. (February 2024-July 2024, 6 months)
+- **Previous:** Senior Manager, Capgemini (December 2023-February 2024, 3 months, Tysons Corner, VA)
+- **Previous:** Evans Consulting, 9 years 5 months total (June 2014-October 2023)
+  - Business Development Manager (July 2020-October 2023, 3 years 4 months)
+  - Principal, Risk Management (June 2014-July 2020, 6 years 2 months)
+
+### Certifications & Credentials
+- **Project Management Professional (PMP)** - Project Management Institute (Issued March 2016, Credential ID 1916889)
+- **Risk Management Professional (RMP)** - Project Management Institute (Issued July 2017, Credential ID 2050660)
+
+### Education
+- **Bachelor of Science (BS)** - George Mason University, Administration of Justice (2005-2009)
+- **Associate Degree** - Northern Virginia Community College, General Studies (2005)
+
+### Core Competencies
+- **Business Development:** New business identification, pursuit strategy, opportunity qualification, pipeline development
+- **Capture Management:** Capture planning, competitive analysis, solution development, teaming strategy
+- **Project Management:** Complex project execution, stakeholder management, risk mitigation (PMP certified)
+- **Risk Management:** Enterprise risk assessment, risk mitigation strategy, contingency planning (RMP certified)
+- **Strategic Growth:** Market analysis, growth strategy development, client relationship management
+- **Business Planning:** Strategic planning, business case development, opportunity shaping
+- **Interpersonal Skills:** Client engagement, team collaboration, executive communication
+- **Domain Expertise:** Military, security, risk-related fields, government technology consulting
+- **Language Skills:** Arabic proficiency
+
+### Professional Approach
+Ryan leverages skills and experience to identify, pursue, and secure new business opportunities while managing and executing complex projects that meet client needs and expectations. Works with diverse teams of consultants, analysts, and subject matter experts, contributing to organizational growth and success. Passionate about delivering high-quality results, building long-term relationships, and solving challenging problems.
+
+### Content Context for Site
+When referencing Ryan's expertise in site content:
+- Emphasize **15+ years of government technology business development**
+- Highlight **PMP and RMP certifications** for project and risk management credibility
+- Reference **capture management expertise** for federal pursuit strategy
+- Note **strategic growth leadership** across multiple government technology firms (Excella, RIVA, Capgemini, Evans)
+- Mention **military and security domain expertise** for defense/national security pursuits
+- Position as **growth strategist** driving BitPadLabs federal business expansion
+- Reference **client relationship management** for partnership development
+
+This expertise directly supports BitPadLabs' positioning in:
+- Federal contract capture and business development
+- Strategic pursuit planning and teaming arrangements
+- Risk management for complex federal projects
+- Government technology market analysis and opportunity identification
+- Client relationship development and account management
+- Growth strategy for WOSB federal contracting expansion
 
 ## Support
 
