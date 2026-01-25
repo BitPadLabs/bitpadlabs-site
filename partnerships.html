@@ -8,7 +8,18 @@ title: Strategic Partnerships
     <h1 class="section-title">Strategic Partnerships</h1>
     <p class="section-subtitle">Collaborating with industry leaders to deliver exceptional technology solutions</p>
     
-    <div style="max-width: 900px; margin: 0 auto;">
+    <!-- Partner Navigation -->
+    <div style="max-width: 900px; margin: 2rem auto 3rem; text-align: center;">
+      <label for="partner-select" style="font-weight: 600; margin-right: 1rem; font-size: 1.1rem;">Jump to Partner:</label>
+      <select id="partner-select" onchange="document.getElementById(this.value).scrollIntoView({behavior: 'smooth', block: 'start'})" style="padding: 0.5rem 1rem; font-size: 1rem; border: 2px solid #4CAF50; border-radius: 4px; background: white; cursor: pointer;">
+        <option value="">Select a partner...</option>
+        <option value="partner-miro">Miro</option>
+        <option value="partner-redhat">Red Hat</option>
+        <option value="partner-datadog">Datadog</option>
+      </select>
+    </div>
+    
+    <div style="max-width: 1200px; margin: 0 auto;">
       
       <div class="content-block" style="background: #f8f9fa; padding: 2rem; border-left: 4px solid #4CAF50; margin-bottom: 2rem;">
         <h3 style="margin-top: 0; color: #4CAF50;">Partnerships That Drive Innovation</h3>
@@ -17,119 +28,95 @@ title: Strategic Partnerships
         </p>
       </div>
 
+      <!-- Partners Grid -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 2rem; margin-bottom: 3rem;">
+      
       <!-- Miro Partnership -->
-      <div class="content-block card" style="padding: 2rem; margin-bottom: 2rem;">
-        <div style="margin-bottom: 1.5rem; clear: both;">
+      <div id="partner-miro" class="content-block card" style="padding: 2rem;">
+        <div style="margin-bottom: 1.5rem;">
           <img src="{{ site.baseurl }}/assets/images/partnerships/MiroLogo-blackyellow.svg" 
                alt="Miro Logo" 
-               style="float: right; margin-left: 2rem; margin-bottom: 1rem; max-width: 150px; height: auto;">
+               style="max-width: 120px; height: auto; margin-bottom: 1rem; display: block;">
           <h2 style="margin-top: 0;">Miro</h2>
-          <p style="font-size: 1.05rem; color: #555;">
-            <strong>Visual Collaboration Platform - Full-Service Partner</strong>
+          <p style="font-size: 0.95rem; color: #555;">
+            <strong>Visual Collaboration - Full-Service Partner</strong>
           </p>
         </div>
         
-        <h3 style="color: #4CAF50; font-size: 1.2rem; margin-top: 1.5rem;">Partnership Overview</h3>
-        <p style="font-size: 1.05rem; line-height: 1.8;">
-          BitPadLabs is a full-service Miro partner and authorized reseller, offering comprehensive solutions from licensing and hosting to administration, training, and strategic consulting. We bring world-class visual collaboration capabilities to our clients, transforming how distributed teams brainstorm, plan, design, and collaborate in real-time.
+        <h3 style="color: #4CAF50; font-size: 1.1rem; margin-top: 1rem;">Partnership Overview</h3>
+        <p style="font-size: 0.95rem; line-height: 1.7;">
+          Full-service Miro partner and authorized reseller offering comprehensive solutions from licensing and hosting to administration, training, and strategic consulting.
         </p>
         
-        <h3 style="color: #4CAF50; font-size: 1.2rem; margin-top: 1.5rem;">Full-Service Offerings</h3>
-        <ul style="font-size: 1.05rem; line-height: 1.8;">
-          <li><strong>License Resale & Management:</strong> Miro subscription procurement, license optimization, and ongoing renewal management</li>
-          <li><strong>Hosting & Administration:</strong> Enterprise instance setup, user provisioning, security configuration, and ongoing administrative support</li>
-          <li><strong>TBM Alignment:</strong> Technology Business Management integration, cost allocation, and chargeback model development</li>
-          <li><strong>Implementation & Training:</strong> Custom onboarding, template development, and comprehensive team training programs</li>
-          <li><strong>Integration Services:</strong> Connecting Miro with your existing tools (Jira, Slack, Microsoft Teams, Confluence, etc.) for seamless collaboration</li>
-          <li><strong>Strategic Consulting:</strong> Collaboration strategy, governance frameworks, and best practices for maximizing organizational adoption</li>
-          <li><strong>Workshop Facilitation:</strong> Leading interactive design thinking workshops and design sprints using Miro as the collaborative canvas</li>
-          <li><strong>Custom Template Development:</strong> Building organization-specific Miro templates for recurring workflows, meetings, and processes</li>
+        <h3 style="color: #4CAF50; font-size: 1.1rem; margin-top: 1rem;">Key Services</h3>
+        <ul style="font-size: 0.95rem; line-height: 1.7; margin-bottom: 0;">
+          <li>License resale & management</li>
+          <li>Hosting & administration</li>
+          <li>TBM alignment & cost allocation</li>
+          <li>Implementation & training</li>
+          <li>Integration services</li>
+          <li>Workshop facilitation</li>
         </ul>
-        
-        <h3 style="color: #4CAF50; font-size: 1.2rem; margin-top: 1.5rem;">Use Cases</h3>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
-          <div class="value-card">
-            <h4>Solution Design</h4>
-            <p>User journey mapping, wireframing, roadmap planning, and feature prioritization</p>
-          </div>
-          
-          <div class="value-card">
-            <h4>Agile Teams</h4>
-            <p>Sprint planning, daily standups, retrospectives, and PI Planning at scale</p>
-          </div>
-          
-          <div class="value-card">
-            <h4>Strategic Planning</h4>
-            <p>Business model canvas, OKR planning, SWOT analysis, and strategic initiatives mapping</p>
-          </div>
-          
-          <div class="value-card">
-            <h4>Workshop Facilitation</h4>
-            <p>Design thinking workshops, brainstorming sessions, and collaborative problem-solving</p>
-          </div>
-        </div>
       </div>
 
       <!-- Red Hat Partnership -->
-      <div class="content-block card" style="padding: 2rem; margin-bottom: 2rem;">
-        <div style="margin-bottom: 1.5rem; clear: both;">
+      <div id="partner-redhat" class="content-block card" style="padding: 2rem;">
+        <div style="margin-bottom: 1.5rem;">
           <img src="{{ site.baseurl }}/assets/images/red-hat/red-hat-name.png" 
                alt="Red Hat Logo" 
-               style="float: right; margin-left: 2rem; margin-bottom: 1rem; max-width: 150px; height: auto;">
+               style="max-width: 120px; height: auto; margin-bottom: 1rem; display: block;">
           <h2 style="margin-top: 0;">Red Hat</h2>
-          <p style="font-size: 1.05rem; color: #555;">
-            <strong>Enterprise Open Source Solutions - Resale Partner</strong>
+          <p style="font-size: 0.95rem; color: #555;">
+            <strong>Enterprise Open Source - Resale Partner</strong>
           </p>
         </div>
         
-        <h3 style="color: #4CAF50; font-size: 1.2rem; margin-top: 1.5rem;">Partnership Overview</h3>
-        <p style="font-size: 1.05rem; line-height: 1.8;">
-          BitPadLabs is a Red Hat partner focused on making enterprise-grade open source technologies accessible through streamlined product resale and licensing. We provide Red Hat subscriptions and renewals with the added value of WOSB certification for federal contracting opportunities.
+        <h3 style="color: #4CAF50; font-size: 1.1rem; margin-top: 1rem;">Partnership Overview</h3>
+        <p style="font-size: 0.95rem; line-height: 1.7;">
+          Red Hat partner through Carahsoft focused on enterprise-grade open source product resale and licensing with WOSB certification for federal contracting.
         </p>
         
-        <h3 style="color: #4CAF50; font-size: 1.2rem; margin-top: 1.5rem;">Red Hat Product Portfolio</h3>
-        <ul style="font-size: 1.05rem; line-height: 1.8;">
-          <li><strong>Red Hat OpenShift:</strong> Enterprise Kubernetes platform for containerized applications and cloud-native development</li>
-          <li><strong>Red Hat Enterprise Linux:</strong> Stable, secure, and certified operating system for mission-critical workloads</li>
-          <li><strong>Red Hat Ansible Automation Platform:</strong> IT automation for configuration management, application deployment, and orchestration</li>
-          <li><strong>Red Hat OpenStack Platform:</strong> Private cloud infrastructure and virtualization solutions</li>
-          <li><strong>Red Hat Middleware:</strong> Application runtime, messaging, and integration platforms for enterprise applications</li>
-          <li><strong>Red Hat Developer Tools:</strong> Development subscriptions and tooling for building cloud-native applications</li>
+        <h3 style="color: #4CAF50; font-size: 1.1rem; margin-top: 1rem;">Key Products</h3>
+        <ul style="font-size: 0.95rem; line-height: 1.7; margin-bottom: 0;">
+          <li>Red Hat OpenShift</li>
+          <li>Red Hat Enterprise Linux</li>
+          <li>Red Hat Ansible Automation Platform</li>
+          <li>Red Hat OpenStack Platform</li>
+          <li>Red Hat Middleware</li>
+          <li>Developer Tools</li>
         </ul>
-        
-        <h3 style="color: #4CAF50; font-size: 1.2rem; margin-top: 1.5rem;">What We Offer</h3>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
-          <div class="value-card">
-            <h4>Product Resale</h4>
-            <p>Red Hat subscriptions, renewals, and license procurement</p>
-          </div>
-          
-          <div class="value-card">
-            <h4>License Optimization</h4>
-            <p>Right-sizing guidance and subscription tier recommendations</p>
-          </div>
-          
-          <div class="value-card">
-            <h4>WOSB Contracting</h4>
-            <p>Federal procurement through certified woman-owned business</p>
-          </div>
-          
-          <div class="value-card">
-            <h4>Flexible Licensing</h4>
-            <p>Multiple deployment and support options to meet your needs</p>
-          </div>
-          
-          <div class="value-card">
-            <h4>Renewal Management</h4>
-            <p>Proactive subscription tracking and renewal coordination</p>
-          </div>
-          
-          <div class="value-card">
-            <h4>Professional Services</h4>
-            <p>Implementation and consulting resources available as needed</p>
-          </div>
-        </div>
       </div>
+
+      <!-- Datadog Partnership -->
+      <div id="partner-datadog" class="content-block card" style="padding: 2rem;">
+        <div style="margin-bottom: 1.5rem;">
+          <img src="{{ site.baseurl }}/assets/images/datadog/dd_logo_h_rgb.jpeg" 
+               alt="Datadog Logo" 
+               style="max-width: 120px; height: auto; margin-bottom: 1rem; display: block;">
+          <h2 style="margin-top: 0;">Datadog</h2>
+          <p style="font-size: 0.95rem; color: #555;">
+            <strong>Observability & Monitoring - Solution Provider</strong>
+          </p>
+        </div>
+        
+        <h3 style="color: #4CAF50; font-size: 1.1rem; margin-top: 1rem;">Partnership Overview</h3>
+        <p style="font-size: 0.95rem; line-height: 1.7;">
+          Datadog Partner Network solution provider delivering comprehensive observability and monitoring solutions for cloud-native and hybrid infrastructure.
+        </p>
+        
+        <h3 style="color: #4CAF50; font-size: 1.1rem; margin-top: 1rem;">Key Capabilities</h3>
+        <ul style="font-size: 0.95rem; line-height: 1.7; margin-bottom: 0;">
+          <li>Infrastructure monitoring</li>
+          <li>Application performance monitoring (APM)</li>
+          <li>Log management & analytics</li>
+          <li>Security monitoring</li>
+          <li>Custom integrations & dashboards</li>
+          <li>Implementation & optimization</li>
+        </ul>
+      </div>
+
+      </div>
+      <!-- End Partners Grid -->
 
       <!-- Additional Partners Section -->
       <div class="content-block card" style="padding: 2rem; margin-bottom: 2rem;">
