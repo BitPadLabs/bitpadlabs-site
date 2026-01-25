@@ -460,6 +460,136 @@ Site is automatically deployed via GitHub Pages when pushing to main branch.
 
 **BitPadLabs Government Solutions LLC (BPL-GS)** is a related Service-Disabled Veteran-Owned Small Business (SDVOSB) focused on VA and federal contracting. Site located in `bitpadlabsgs-site/` subdirectory. The two companies collaborate but maintain separate branding and certifications.
 
+## Christopher Inman - CTO Technical Profile
+
+Christopher Inman is the Chief Technology Officer and founding non-member of BitPadLabs. His expertise forms the foundation of the company's platform engineering, federal modernization, and enterprise DevSecOps capabilities.
+
+### Current Role & Experience
+- **Current:** Chief Technology Officer, BitPadLabs LLC (2025-Present)
+- **Previous:** Principal Infrastructure Engineer (L7), Nava PBC (May 2025-Present)
+  - Contract Lead for FAFSA Joint Venture with Focus Consulting
+  - Enterprise technical authority for Department of Education Federal Student Aid (FSA)
+- **Government Service:**
+  - Cloud Operations Supervisor (GS-2210-14), U.S. Office of Personnel Management (2023-2025)
+    - TS/SCI clearance, led $90M Azure migration portfolio
+  - DevSecOps Team Lead (GS-2210-13), U.S. Centers for Medicare & Medicaid Services (2021-2023)
+  - DevSecOps Engineer (GS-2210-13), U.S. Office of Personnel Management (2013-2021)
+
+### Federal Agency Experience
+- **Department of Education** - Federal Student Aid (FSA), FAFSA modernization
+- **U.S. Office of Personnel Management (OPM)** - OCIO, cloud migrations, enterprise DevSecOps
+- **Centers for Medicare & Medicaid Services (CMS)** - HHS applications, AWS modernization
+- **Securities and Exchange Commission (SEC)** - Enterprise Development Tools pursuit support
+
+### Platform Engineering Leadership
+
+**FSA Enterprise Observability Platform (A- rated, 90/100):**
+- Designed and led FedRAMP High certified Datadog US1-FED enterprise platform for Department of Education
+- Multi-vendor governance across GDIT, Peraton, Accenture, Focus Consulting, Jazz Solutions, Nava
+- 9 persona-based RBAC roles managing 268 Datadog permissions
+- 90+ automation scripts, 29 GitHub Actions workflows with GitOps enforcement
+- OPA/Rego policy-as-code with real compliance enforcement (not theater)
+- TBM-aligned tagging standards with 3-tier taxonomy for cost attribution
+- Terraform-as-governance model eliminating manual UI changes
+- Rated "better than 90% of government IaC repos" and recommended as reference implementation
+
+**Enterprise Delivery Transformation:**
+- Fast Lane delivery strategy: shifted FSA from quarterly to bi-weekly release cycles
+- Feature flag/toggle-driven deployment for cycle-agnostic delivery
+- /health endpoint standardization with structured JSON schemas and dependency mapping
+- Eliminated stage-gated processes while maintaining OMB M-21-31, M-22-09, FISMA compliance
+
+**Nava Cloud Services Pilot:**
+- Authored Nava's first enterprise cloud operating model RFC
+- Multi-account AWS architecture with security baseline and RBAC
+- ATO control evidence and compliance-aware IaC patterns
+- Reusable capability enabling federal pursuits and delivery teams
+
+### System Center Deep Expertise
+- **System Center Operations Manager (SCOM)** - Designed architecture for 750+ websites, APM for .NET applications, real-time alerting, TFS work item integration
+- **System Center Configuration Manager (SCCM)** - Patch deployments with WSUS, security baselines (DISA Gold, MSCM)
+- **System Center Service Manager (SCSM)** - Enterprise ITSM, work item management
+- **System Center Orchestrator (SCOR)** - Automation workflows and runbook execution
+- Successfully decommissioned System Center components during Azure migrations
+
+### DevSecOps & CI/CD Expertise
+- **GitHub Enterprise:** 575+ repository migrations, GitHub Advanced Security (GHAS) 100% compliance, Dependabot, CodeQL (SAST), Secret Scanning
+- **Azure DevOps:** Work item migrations from Jira/TFS, enterprise ALM, pipeline orchestration
+- **Octopus Deploy:** Single-click automation, release management across 13+ projects
+- **Team Foundation Server (TFS):** Build configurations, SDLC optimization, version control
+- **Source Control:** GitHub, GitLab, Bitbucket, Subversion, SourceSafe migrations
+- **Package Management:** Inedo ProGet, GitHub Packages, Nexus, JFrog Artifactory, NuGet, npm
+
+### Cloud & Infrastructure
+- **Azure:** $90M portfolio migration, account modernization, Entra ID, cost optimization
+- **AWS:** Consolidated 144 accounts into 19, $250K annual savings, greenfield automation, IAC with Terraform
+- **Akamai:** WAF configuration, Edge CDN, visitor prioritization, cloudlet management, cache purging automation
+- **VMware:** vSphere administration, decommissioning during cloud migrations
+- **Containerization:** Docker hardening and adoption, serverless architecture
+
+### Certifications & Training
+- **GIAC Cloud Security Automation (GCSA)** - Exercised daily in secure automation and policy-as-code
+- **SAFe® Practice Consultant (SPC)** - Led FITBS $90M portfolio SAFe transformation at OPM
+- **GitHub Certifications (2025):** Advanced Security, Copilot, Foundations
+- **Terraform Associate (2025)** - Formalized IaC expertise applied in observability governance
+- **Datadog Fundamentals (2025)** - Platform knowledge for Enterprise Observability Service
+- **AWS Certified Cloud Practitioner**
+- **Akamai:** Web Performance and Offload, BOT Manager Foundations, Kona Site Defender
+- **DevSecOps Engineer Certification**
+- **Microsoft System Center 2012 Operations Manager Advanced Workshop**
+- **VMware vSphere: Install, Configure, Manage [V5.1]**
+
+### Key Accomplishments
+- **GitHub Security:** Achieved 100% GHAS compliance across 575 repositories with Dependabot, CodeQL, Secret Scanning
+- **Miro Consolidation:** Consolidated 50+ Miro accounts, saved $80K in erroneous license spend
+- **AWS Cost Reduction:** Consolidated 144 AWS accounts to 19, reduced expenses by $250K+ annually
+- **Repository Migration:** Led migration of 575+ repositories from File shares, Subversion, ADO, SourceSafe to GitHub
+- **Work Item Migration:** Migrated work tracking from Jira and TFS to Azure DevOps SaaS
+- **System Center Decommission:** Successfully migrated to Azure and native solutions
+
+### Business Development Contributions
+- **SEC Enterprise Development Tools:** Technical leadership enabled successful pursuit win
+- **VA and USDA:** Architectural guidance and risk analysis
+- **SEC EDGAR:** Early technical shaping for upcoming pursuit
+- Supplied enterprise capabilities (developer tooling, migration, governance) that didn't previously exist at Nava, directly enabling revenue
+
+### Technical Specializations
+- **Platform Engineering:** Enterprise observability, developer tooling, cloud platforms as services
+- **Federal Modernization:** FISMA, FedRAMP High, FIPS 140-2, OMB guidance, NIST controls
+- **Governance at Scale:** Multi-vendor coordination, policy-as-code, compliance automation
+- **Lifecycle & Release:** Trunk-based development, feature flags, bi-weekly federal releases
+- **Microsoft Ecosystem:** .NET, C#, VB.NET, ASP.NET, Power Platform, System Center suite
+- **Modern Web:** TypeScript, JavaScript, Python, Node.js, React, Vue.js
+- **Observability:** Datadog, SCOM, Dynatrace, Azure Monitor, CloudWatch, APM, synthetic testing
+- **Security:** SAST, DAST, dependency scanning, secret scanning, vulnerability management, shift-left practices
+- **IaC & Automation:** Terraform, Ansible, PowerShell, Python, GitHub Actions, GitOps
+
+### Leadership & Mentorship
+- Contract Lead and technical authority in multi-vendor federal environments
+- Trusted advisor to Nava leadership, Focus Consulting partners, and federal stakeholders
+- Mentored engineers and contract leads across DevSecOps and platform engineering
+- Supported Communities of Practice and interview/candidate evaluation
+- Established governance frameworks where none existed, reducing delivery and compliance risk
+
+### Content Context for Site
+When referencing Christopher's expertise in site content:
+- Emphasize **platform engineering at federal scale** (not just infrastructure)
+- Highlight **FedRAMP High, Department of Education, FAFSA** experience
+- Reference **multi-vendor governance** and **enterprise operating models**
+- Note **bi-weekly federal release cycles** (Fast Lane delivery) as modernization achievement
+- Use **A- rated FSA Observability Platform** as case study when appropriate
+- Mention **revenue-enabling capabilities** for business development context
+- Include **5 certifications in 8 weeks** (Oct-Dec 2025) demonstrating rapid platform capability adoption
+- Reference **TS/SCI clearance** and **GS-14 supervisor** level for federal credibility
+
+This expertise directly supports BitPadLabs' positioning in:
+- Federal government modernization contracts
+- Platform engineering and observability services
+- Datadog partnership implementation and consulting
+- GitHub enterprise migrations and governance
+- Multi-vendor coordination and compliance automation
+- SAFe/Agile transformation in federal environments
+
 ## Support
 
 **Contact:** info@bitpadlabs.com  
@@ -468,4 +598,4 @@ Site is automatically deployed via GitHub Pages when pushing to main branch.
 
 ---
 
-*Last updated: January 22, 2026*
+*Last updated: January 24, 2026*

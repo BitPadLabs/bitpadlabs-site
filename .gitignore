@@ -14,5 +14,6 @@ gemfile.lock
 # Sister company site - managed separately
 bitpadlabsgs-site/
 
-# Private documents
+# Private documents and files
+_ignore/
 Operating Agreement - BPL-GS.md
