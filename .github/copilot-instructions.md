@@ -446,6 +446,60 @@ Miro brand assets are available in `/assets/images/partnerships/`:
 - Partnership managed through Red Hat Partner Connect
 - Contact Red Hat partner team for specific approval questions
 
+#### Octopus Deploy Partnership Brand Guidelines
+
+**Partnership Status:** Partnership application in progress with Octopus Deploy for deployment automation platform implementation and consulting.
+
+**Available Brand Assets** (in `/assets/images/OctopusDeploy_Logos_OctoIcon.png`):
+- Octopus Deploy icon/mark (used on partnerships page)
+
+**Key Principles:**
+- **Mission Alignment:** Octopus Deploy aims to be the category-defining solution for deployment and operations automation
+- **Vision:** All software teams should look forward to deployment time, deploy frequently with 100% confidence
+- **Partnership Focus:** Implementation expertise, release automation, CI/CD integration, multi-environment deployment orchestration
+
+**Company Values:**
+- Listening to customers over following market trends
+- Helping each other over being efficient individual contributors
+- Doing the right thing by customers and team over short-term gain
+- Doing a small number of things at high quality over trying to do everything
+- Bias for action over risk-aversion or pursuit of perfect plan
+
+**Logo Usage Guidelines:**
+- **Logo Priority:** Full logo lockup (icon + wordmark "Octopus Deploy") should be prioritized whenever possible
+- **Icon Standalone:** The octopus icon can be used standalone only in tight spaces (app icons, social media avatars, partnership cards)
+- **Logo Safe Space:** Always maintain minimum buffer zone around logo to avoid overlapping elements
+- **Minimum Size (Digital):** Never smaller than 60px
+- **Minimum Size (Print):** Never smaller than 2cm (300dpi)
+- **Co-Branding:** When placing alongside BitPadLabs logo, ensure equal visual weight and proper spacing
+
+**Logo Alignment:**
+- The capital 'O' from "Octopus Deploy" wordmark stays consistent with the height of the Octopus mark
+- When using logos together, they need to be the same height
+- Ensure legibility is always at the forefront
+
+**Brand Colors:**
+- Octopus Deploy uses specific brand colors (not provided in available materials)
+- Follow BitPadLabs brand guidelines for partnership materials (our fonts, colors, design language)
+- Octopus Deploy logo appears in approved brand colors only
+
+**Partnership Positioning:**
+- **Expertise:** 13+ projects managed with Octopus Deploy for enterprise release automation
+- **Services:** Deployment automation, release orchestration, CI/CD integration, multi-environment management, deployment strategies (blue-green, canary, rolling), migration from legacy tools
+- **Value Proposition:** Single-click release management, automated reliable deployments, comprehensive deployment orchestration
+
+**Don'ts:**
+- Don't modify, rotate, or distort logos
+- Don't change logo colors
+- Don't reproduce smaller than minimum sizes
+- Don't compromise legibility
+- Don't use BitPadLabs branding with Octopus Deploy logo alone (must show partnership context)
+
+**Reference:**
+- Brand assets provided include logo mark/icon
+- Partnership managed through Octopus Deploy partner program
+- Octopus Deploy website: https://octopus.com/
+
 ## SEO & Meta Tags
 
 ### Site-wide
