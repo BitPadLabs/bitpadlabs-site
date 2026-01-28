@@ -36,9 +36,10 @@ title: Strategic Partnerships
             <select id="partner-select" onchange="document.getElementById(this.value).scrollIntoView({behavior: 'smooth', block: 'start'})" style="padding: 0.5rem 1rem; font-size: 1rem; border: 2px solid #4CAF50; border-radius: 4px; background: white; cursor: pointer;">
               <option value="">Select a partner...</option>
               <option value="partner-miro">Miro</option>
-              <option value="partner-github">GitHub</option>
               <option value="partner-datadog">Datadog</option>
               <option value="partner-redhat">Red Hat</option>
+              <option value="partner-wiz">Wiz</option>
+              <option value="partner-github">GitHub</option>
               <option value="partner-scaledagile">Scaled Agile</option>
               <option value="partner-octopus">Octopus Deploy</option>
               <option value="partner-slack">Slack</option>
@@ -46,8 +47,12 @@ title: Strategic Partnerships
             </select>
           </div>
 
-          <!-- Partners Grid -->
-          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 2rem;">
+          <!-- Approved Partners Section -->
+          <div style="margin-bottom: 3rem;">
+            <h2 style="color: #4CAF50; font-size: 1.5rem; margin-bottom: 1.5rem; padding-bottom: 0.5rem; border-bottom: 3px solid #4CAF50;">Approved Partners</h2>
+            
+            <!-- Approved Partners Grid -->
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 2rem;">
       
       <!-- Miro Partnership -->
       <div id="partner-miro" class="content-block card" style="padding: 2rem; display: flex; flex-direction: column;">
@@ -211,7 +216,53 @@ title: Strategic Partnerships
         </div>
       </div>
 
-      <!-- Scaled Agile Partnership -->
+      <!-- Wiz Partnership -->
+      <div id="partner-wiz" class="content-block card" style="padding: 2rem; display: flex; flex-direction: column;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; gap: 1rem;">
+          <div>
+            <h2 style="margin: 0;">Wiz</h2>
+            <p style="font-size: 0.95rem; color: #555; margin: 0.25rem 0 0 0;">
+              <strong>Cloud Security Platform - Authorized Reseller</strong>
+            </p>
+          </div>
+          <img src="{{ site.baseurl }}/assets/images/wiz.png" 
+               alt="Wiz Logo" 
+               style="max-width: 120px; height: auto; flex-shrink: 0;">
+        </div>
+        
+        <h3 style="color: #4CAF50; font-size: 1.1rem; margin-top: 1rem;">What We Deliver</h3>
+        <p style="font-size: 0.95rem; line-height: 1.7;">
+          BitPadLabs provides comprehensive Wiz cloud security platform licensing as an authorized reseller, enabling government and commercial clients to secure their cloud infrastructure with industry-leading vulnerability management, compliance monitoring, and threat detection across multi-cloud environments.
+        </p>
+        
+        <h3 style="color: #4CAF50; font-size: 1.1rem; margin-top: 1rem;">Our Services</h3>
+        <ul style="font-size: 0.95rem; line-height: 1.7; margin-bottom: 1.5rem;">
+          <li><strong>Wiz Licensing</strong> - Cloud security platform subscriptions through simplified federal and commercial procurement</li>
+          <li><strong>Procurement Support</strong> - Navigate federal acquisition requirements and contract vehicles for Wiz deployment</li>
+          <li><strong>Multi-Cloud Security</strong> - Unified visibility and protection across AWS, Azure, Google Cloud, and hybrid environments</li>
+          <li><strong>Vulnerability Management</strong> - Comprehensive cloud workload scanning and prioritized remediation guidance</li>
+          <li><strong>Compliance Monitoring</strong> - Continuous compliance assessment for FedRAMP, FISMA, SOC 2, and industry frameworks</li>
+          <li><strong>Right-Sizing Guidance</strong> - License optimization and usage analysis to match organizational security needs</li>
+        </ul>
+        
+        <div style="margin-top: auto; padding-top: 1rem; border-top: 1px solid #e0e0e0;">
+          <p style="font-size: 0.85rem; color: #666; font-style: italic; margin: 0;">Authorized Wiz reseller providing cloud security platform access for federal and commercial clients.</p>
+        </div>
+      </div>
+
+            </div>
+            <!-- End Approved Partners Grid -->
+          </div>
+          <!-- End Approved Partners Section -->
+
+          <!-- Pending Partners Section -->
+          <div style="margin-bottom: 3rem;">
+            <h2 style="color: #FFEB3B; font-size: 1.5rem; margin-bottom: 1.5rem; padding-bottom: 0.5rem; border-bottom: 3px solid #FFEB3B;">Pending Partners</h2>
+            
+            <!-- Pending Partners Grid -->
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 2rem;">
+
+      <!-- GitHub Partnership -->
       <div id="partner-scaledagile" class="content-block card" style="padding: 2rem; display: flex; flex-direction: column; border: 2px solid #FFEB3B;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; gap: 1rem;">
           <div>
@@ -367,8 +418,10 @@ title: Strategic Partnerships
         </div>
       </div>
 
-      </div>
-      <!-- End Partners Grid -->
+            </div>
+            <!-- End Pending Partners Grid -->
+          </div>
+          <!-- End Pending Partners Section -->
 
         </div>
         <!-- End Vendor Tab -->
