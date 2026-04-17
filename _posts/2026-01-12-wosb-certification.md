@@ -30,9 +30,8 @@ BitPadLabs was founded with a vision of creating technology that makes a real di
 
 - **Hannah Cassels**: CEO and Co-Founder
 - **Jaime Inman**: Chief Operating & Financial Officer and Co-Founder
-- **Melanie Amerson**: Chief Strategy Officer and Co-Founder
 
-Together, our founding team brings decades of combined experience in software development, business operations, strategic planning, and technology innovation. This WOSB certification reflects the dedication and vision that Hannah, Jaime, and Melanie have poured into building BitPadLabs from the ground up.
+Together, our founding team brings decades of combined experience in software development, business operations, strategic planning, and technology innovation. This WOSB certification reflects the dedication and vision that Hannah and Jaime have poured into building BitPadLabs from the ground up.
 
 ## Partnering for Impact
 
